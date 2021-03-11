@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git-flow
 ========
 
@@ -146,3 +147,6 @@ another way, however, consider Flattr'ing me:
 
 [1]: http://flattr.com/thing/53771/git-flow
 [2]: http://api.flattr.com/button/button-static-50x60.png
+=======
+hotfix/0311
+>>>>>>> 0311
